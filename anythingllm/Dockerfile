@@ -1,1 +1,1 @@
-test
+FROM mintplexlabs/anythingllm:latest
